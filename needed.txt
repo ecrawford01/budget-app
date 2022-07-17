@@ -1,0 +1,10 @@
+--Account
+Name, Email
+
+--Income
+-> Type: Daily, Weekly, Monthly, Yearly
+
+--Spending
+-> Type: Daily, Weekly, Monthly, Yearly
+Subscriptions, Rent, X type of Payment
+
